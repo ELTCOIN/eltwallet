@@ -35,7 +35,7 @@
     "react-native-swipeout": "2.3.6",
     "react-native-userdefaults-ios": "0.1.3",
     "react-native-uuid": "1.4.9",
-    "react-navigation": "2.11.2",
+    "react-navigation": "2.18.3",
     "react-redux": "5.0.7",
     "readable-stream": "3.0.2",
     "redux": "4.0.0",
