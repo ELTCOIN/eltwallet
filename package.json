@@ -29,7 +29,7 @@
     "react-native-keyboard-aware-scrollview": "2.0.0",
     "react-native-linear-gradient": "2.4.0",
     "react-native-qrcode-svg": "5.1.0",
-    "react-native-randombytes": "3.5.0",
+    "react-native-randombytes": "3.5.3",
     "react-native-sensitive-info": "5.2.4",
     "react-native-svg": "6.5.2",
     "react-native-swipeout": "2.3.6",
